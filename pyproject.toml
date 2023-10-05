@@ -10,7 +10,7 @@ packages = [{include = "flow_pinecone_chatgpt"}]
 python = "^3.11"
 openai = "^0.27.7"
 pinecone-client = "^2.2.1"
-langchain = "^0.0.186"
+langchain = "^0.0.308"
 
 
 [build-system]
